@@ -23,9 +23,9 @@
 		4CC8960B119F0CED00ED61B6 /* MWFeedItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CC89608119F0CED00ED61B6 /* MWFeedItem.m */; };
 		4CC8960F119F0CFB00ED61B6 /* NSString+XMLEntities.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CC8960E119F0CFB00ED61B6 /* NSString+XMLEntities.m */; };
 		4CC89612119F0D0C00ED61B6 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CC89611119F0D0C00ED61B6 /* RootViewController.m */; };
+		B62C01DB177C520B00372B72 /* 57.png in Resources */ = {isa = PBXBuildFile; fileRef = B62C01DA177C520B00372B72 /* 57.png */; };
 		B62E49111779932D00894F77 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B62E49101779932D00894F77 /* Default-568h@2x.png */; };
 		B62E49131779936400894F77 /* 114.png in Resources */ = {isa = PBXBuildFile; fileRef = B62E49121779936400894F77 /* 114.png */; };
-		B62E49151779937700894F77 /* 52.png in Resources */ = {isa = PBXBuildFile; fileRef = B62E49141779937600894F77 /* 52.png */; };
 		B6A09245177998D400090495 /* CustomNavigationBar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6A09243177998D400090495 /* CustomNavigationBar@2x.png */; };
 		B6A09246177998D400090495 /* CustomNavigationBar.png in Resources */ = {isa = PBXBuildFile; fileRef = B6A09244177998D400090495 /* CustomNavigationBar.png */; };
 /* End PBXBuildFile section */
@@ -61,9 +61,9 @@
 		4CC89610119F0D0C00ED61B6 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		4CC89611119F0D0C00ED61B6 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Chelsea News-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Chelsea News-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		B62C01DA177C520B00372B72 /* 57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 57.png; sourceTree = "<group>"; };
 		B62E49101779932D00894F77 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		B62E49121779936400894F77 /* 114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 114.png; sourceTree = "<group>"; };
-		B62E49141779937600894F77 /* 52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 52.png; sourceTree = "<group>"; };
 		B6A09243177998D400090495 /* CustomNavigationBar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CustomNavigationBar@2x.png"; sourceTree = "<group>"; };
 		B6A09244177998D400090495 /* CustomNavigationBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CustomNavigationBar.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -203,9 +203,9 @@
 		B6A09247177998DD00090495 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				B62C01DA177C520B00372B72 /* 57.png */,
 				B6A09243177998D400090495 /* CustomNavigationBar@2x.png */,
 				B6A09244177998D400090495 /* CustomNavigationBar.png */,
-				B62E49141779937600894F77 /* 52.png */,
 				B62E49121779936400894F77 /* 114.png */,
 				B62E49101779932D00894F77 /* Default-568h@2x.png */,
 			);
@@ -270,9 +270,9 @@
 				28F335F11007B36200424DE2 /* RootViewController.xib in Resources */,
 				B62E49111779932D00894F77 /* Default-568h@2x.png in Resources */,
 				B62E49131779936400894F77 /* 114.png in Resources */,
-				B62E49151779937700894F77 /* 52.png in Resources */,
 				B6A09245177998D400090495 /* CustomNavigationBar@2x.png in Resources */,
 				B6A09246177998D400090495 /* CustomNavigationBar.png in Resources */,
+				B62C01DB177C520B00372B72 /* 57.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
